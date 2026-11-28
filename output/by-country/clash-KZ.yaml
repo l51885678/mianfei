@@ -18,7 +18,7 @@ proxies:
   ws-opts:
     path: /vmess/
     headers:
-      Host: 38.107.234.57
+      Host: ''
 - name: 🇰🇿 KZ 02 - xiaohe
   type: vless
   server: 38.107.234.57
@@ -44,7 +44,7 @@ proxies:
   servername: 3h-kazakhstan1.09vpn.com
   network: ws
   ws-opts:
-    path: /vless/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM
+    path: /vless/
     headers:
       Host: 38.107.234.57
 proxy-groups:
